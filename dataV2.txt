@@ -37,14 +37,14 @@
 },
  
  "my_data":[
-  {"title":"title1 ser","desc":"description1 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title2 ser","desc":"description2 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title3 ser","desc":"description3 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title4 ser","desc":"description4 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title5 ser","desc":"description5 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title6 ser","desc":"description6 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title7 ser","desc":"description7 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title8 ser","desc":"description8 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"title":"title1 ser","desc":"Nestled at the heart of the bustling city, Nashstore Market stands as a beacon of convenience, variety, and community","photo":"https://iili.io/HDblYqF.webp"},
+  {"title":"title2 ser","desc":"With its vibrant atmosphere, diverse selection of products, and commitment to providing an unparalleled shopping experience","photo":"https://iili.io/HDbla0g.webp"},
+  {"title":"title3 ser","desc":"Nashstore Market has become the go-to destination for both locals and visitors alike.","photo":"https://iili.io/HDbl5s1.webp"},
+  {"title":"title4 ser","desc":"Step inside Nashstore Market and immerse yourself in a world of choices. From fresh produce to artisanal crafts, from fashion boutiques to cutting-edge electronics","photo":"https://iili.io/HDblRWP.webp"},
+  {"title":"title5 ser","desc":"Nashstore Market offers an extensive range of products that cater to every need and desire","photo":"https://iili.io/HDblcga.webp"},
+  {"title":"title6 ser","desc":"Stroll through its sprawling aisles and discover a treasure trove of goods that showcase the creativity and innovation of local entrepreneurs alongside well-known international brands","photo":"https://iili.io/HDblEeR.webp"},
+  {"title":"title7 ser","desc":"Food enthusiasts will find themselves in paradise at Nashstore Market's culinary corner. Indulge in a plethora of flavors that span the globe, from savory street food to gourmet delicacies","photo":"https://iili.io/HDbl0dJ.webp"},
+  {"title":"title8 ser","desc":"The market houses a fusion of eateries, each serving up delectable dishes prepared with passion and expertise","photo":"https://iili.io/HDbl15v.webp"}
    ]
  
 }
