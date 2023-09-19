@@ -45,18 +45,19 @@
 
 },
   "my_data":[
-  {"desc1":"In Sneaky Sasquatc players guide their Sasquatch through various activitie and have fun while evading the watchful eyes of the park authorities. ",
-   "photo1":"https://iili.io/JHyShtp.webp"},
-  {"desc2":"The Sasquatch must sneak around the park, pilfering picnic baskets, stealing snacks from campers, and raiding trash cans for goodies. Players can explore the park, visit different locations, and interact with various characters to complete quests and missions.",
-"photo2":"https://iili.io/JHySWAv.webp"},
-  {"desc3":"Throughout the game, players will encounter park rangers who are always on the lookout for the elusive Sasquatch. To avoid suspicion, players must dress up in disguises, sneak through bushes, and use cunning tactics to stay out of sight. If caught, the game is not over, but the Sasquatch will have to find a way to escape from the rangers and return to its sneaky activities.",
-"photo3":"https://iili.io/JHySXNR.webp"},
-  {"desc4":"As players progress, they can unlock new areas of the park, discover secret hiding spots, and uncover hidden treasures. The game offers a mix of stealth, exploration, and casual gameplay, making it enjoyable for players of all ages.",
-"photo4":"https://iili.io/JHySVHJ.webp"},
-  {"desc5":"Sneaky Sasquatch has received praise for its engaging gameplay, charming graphics, and witty humor. It's a game that appeals to both casual players looking for a fun time and more dedicated players aiming to complete all the quests and challenges.",
-"photo5":"https://iili.io/JHySVHJ.webp"},
-  {"descd":"If you enjoy lighthearted adventures with a touch of stealth and humor, Sneaky Sasquatch might be the perfect game for you. Whether you're sneaking around the park or causing delightful mayhem, it's an enjoyable and endearing experience that will keep you entertained for hours ",
-"photod":"https://iili.io/JHySVHJ.webp"}
+  {"desc1":"In a world driven by technology and innovation, having access to the latest gadgets and electronics is essential for both work and leisure. The advent of online shopping has made it easier than ever to acquire these cutting-edge products, and one platform that stands out is NashStore. In this article, we will delve into what makes NashStore a unique and sought-after destination for tech enthusiasts and everyday consumers alike.",
+   "photo1":"https://iili.io/JJ9F5Ob.jpg"},
+  {"desc2":"NashStore prides itself on offering a diverse and extensive range of tech products. Whether you're in search of a sleek smartphone, a high-performance laptop, gaming gear, or smart home devices, NashStore has you covered. The platform partners with renowned brands and constantly updates its inventory to provide customers with access to the latest and greatest in the tech world.
+",
+"photo2":"https://iili.io/JJ9dlsI.jpg"},
+  {"desc3":"Navigating NashStore's website or mobile app is a breeze. The user-friendly interface ensures that shoppers can effortlessly browse through categories, read detailed product descriptions, and compare specifications. With a well-organized layout, finding the perfect tech gadget is a seamless experience for customers of all technical backgrounds.",
+"photo3":"https://iili.io/JJ9d1ft.webp"},
+  {"desc4":"One of NashStore's standout features is its commitment to offering competitive pricing. Tech enthusiasts and budget-conscious shoppers alike can take advantage of competitive prices on a wide array of products. Additionally, NashStore frequently provides exclusive deals, discounts, and bundles, making it an attractive choice for those looking to maximize their savings.",
+"photo4":"https://iili.io/JJ9FTg9.jpg"},
+  {"desc5":"NashStore places a strong emphasis on customer satisfaction. The platform's customer support team is readily available to assist with inquiries, provide product recommendations, and address any concerns. Furthermore, NashStore prioritizes security and privacy, ensuring that customer data is handled with the utmost care and compliance with industry standards.",
+"photo5":"https://iili.io/JJ9FXea.png"},
+  {"descd":"Shopping at NashStore is not only easy but also convenient. The platform supports various payment methods, making it accessible to customers worldwide. Additionally, NashStore offers flexible delivery options, including express shipping for those who can't wait to get their hands on their new gadgets.",
+"photod":"https://iili.io/JJ9FTg9.jpg"}
    ]
  
 }
